@@ -1,0 +1,7 @@
+Model Performance Summary:
+                 Model  Accuracy  Recall        F1   ROC-AUC
+0  Logistic Regression  0.751468    0.80  0.239521  0.845041
+1        Random Forest  0.923679    0.08  0.093023  0.748086
+2    Gradient Boosting  0.885519    0.42  0.264151  0.801852
+
+Best Model based on Recall: Logistic Regression

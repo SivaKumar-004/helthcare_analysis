@@ -1,0 +1,26 @@
+# Stroke Prediction Model Task List
+
+- [ ] Explore Dataset
+    - [ ] Read CSV file headers and sample data
+    - [ ] Check for missing values and data types
+- [ ] Data Preprocessing
+    - [ ] Handle missing values (imputation)
+    - [ ] Encode categorical variables (OneHot/Label encoding)
+    - [ ] Scale numerical features
+    - [ ] Handle class imbalance (SMOTE or class weights)
+- [ ] Exploratory Data Analysis (EDA)
+    - [ ] Visualize feature distributions
+    - [ ] Analyze correlation with target variable
+- [ ] Model Training & Evaluation
+    - [ ] Train Logistic Regression
+    - [ ] Train Random Forest
+    - [ ] Train XGBoost (if available) or Gradient Boosting
+    - [ ] Evaluate using Accuracy, Precision, Recall, F1, ROC-AUC
+- [ ] Model Selection
+    - [ ] Compare metrics
+    - [ ] Select best performing model
+- [ ] Visualization & Reporting
+    - [ ] Generate Confusion Matrix
+    - [ ] Generate Feature Importance plot
+    - [ ] Generate ROC Curve
+    - [ ] Summarize findings
